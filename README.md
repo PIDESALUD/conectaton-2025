@@ -1,2 +1,2 @@
 # Conectaton-2025
-Toda la información sobre la conectaton 2025 en este repositorio.
+Repositorio para la disponibilizar todos los ejercicios y demos que se usaran en las capacitación del 20.02.2025 al 29.05.2025
